@@ -1,6 +1,3 @@
-from modulefinder import replacePackageMap
-
-
 print("hello world")
 print("MY name is humayun")
 name = "tim"
@@ -23,3 +20,7 @@ print("hello")
 print("ongit")
 print(name)
 print("modified by branch")
+print("hi ,\'how are you")
+print(name[0])
+print(name)
+print(name.upper().isupper())
