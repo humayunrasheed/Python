@@ -1,0 +1,11 @@
+# vlaues are can not be changed
+num=(1,2,3)
+print(type(num))
+tup=(1,1,3,5,)
+print(len(tup))
+strings=("hoem",num,tup)
+boo=(True,False)
+print(strings,boo)
+print(type(strings[0]))
+tup2=tuple((2,5,num))
+print(tup2)

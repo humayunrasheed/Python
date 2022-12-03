@@ -26,5 +26,5 @@ print("list 3 is ",list3)
 list3.pop(2)
 print("list 3 is ",list3)
 del list3[0]
-del list3
+#del list3 #not avaliable in the code
 print(list3)
