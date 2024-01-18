@@ -26,3 +26,17 @@ hex(75)
 5 & 9
 # bitwise or 
 4 | 5
+
+# to seperate data while printing
+a=10
+b=20
+print(a,b,sep=':')
+
+# printing value with format
+print("a value={} and b value={}".format(a,b))
+
+# conditional statements
+# 1.if
+# 2.if else
+# 3.nested if else
+# 4.if elif else
